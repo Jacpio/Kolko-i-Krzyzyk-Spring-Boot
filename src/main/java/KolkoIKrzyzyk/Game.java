@@ -62,6 +62,7 @@ public class Game extends VerticalLayout {
                sprawdz(2,4,6);
             });
         }
+
         add(l1,l2,l3);
         bReset = new Button("Reset");
         bReset.setHeight("100px");
